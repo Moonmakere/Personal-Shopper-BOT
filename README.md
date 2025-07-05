@@ -20,9 +20,9 @@ Here’s a sneak peek of the Personal-Shopper-BOT in action:
 
 ### 🖼️ Interface & Functionality
 
-![S1](https://github.com/user-attachments/assets/71eaea77-c862-432d-b142-c2b8fa2911ea)
-![S2](https://github.com/user-attachments/assets/ffaa79e6-c6b7-411f-a51c-4b35c9218fcf)
-![S3](https://github.com/user-attachments/assets/6f5ec6bb-19a9-4fe8-8baa-dd65d5030617)
+![q1](https://github.com/user-attachments/assets/62934f85-fbc8-4a66-ad89-7a8e37b8cdd5)
+![q2](https://github.com/user-attachments/assets/89815fe2-89af-47d1-af2a-e842a675f672)
+![q3](https://github.com/user-attachments/assets/73a2a17b-7c20-4443-a7a2-9419f0210633)
 
 ---
 
