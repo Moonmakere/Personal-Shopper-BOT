@@ -54,4 +54,4 @@ git clone https://github.com/Moonmakere/Personal-Shopper-BOT.git
 cd Personal-Shopper-BOT
 
 # Run the app
-streamlit run.app.py
+streamlit run app.py
