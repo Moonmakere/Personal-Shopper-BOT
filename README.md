@@ -48,7 +48,7 @@ Here’s a sneak peek of the Personal-Shopper-BOT in action:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/Personal-Shopper-BOT.git
+git clone https://github.com/Moonmakere/Personal-Shopper-BOT.git
 
 # Navigate to the project folder
 cd Personal-Shopper-BOT
